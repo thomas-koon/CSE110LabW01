@@ -9,7 +9,9 @@ As a *person* I am a **20th year**.
 
 One of my *favorite* programming quotes is: 
 > Start early start often
+
 > (I don't know who said this)
+
 > (I also don't know when they said this)
 
 **Top 10 Reasons I love programming** 
@@ -32,6 +34,7 @@ My **favorite code I've written for school** is:
 My favorite website is [Canvas](canvas.ucsd.edu) because I can find all my awesome homework assignments there!!!!!
 
 [Click here to skip to the end](#the-end)
+
 [Click here to not skip to the end](other.md)
 
 # The End

@@ -31,7 +31,7 @@ My **favorite code I've written for school** is:
 [removed for Academic Integrity Violation]
 ``` 
 
-My favorite website is [Canvas](canvas.ucsd.edu) because I can find all my awesome homework assignments there!!!!!
+My favorite website is [Canvas](https://canvas.ucsd.edu/) because I can find all my awesome homework assignments there!!!!!
 
 [Click here to skip to the end](#the-end)
 

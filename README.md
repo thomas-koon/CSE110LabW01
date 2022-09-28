@@ -2,4 +2,6 @@
 
 Koon's User Page
 
-I love c++ (I hate c++ )
+I love c++ 
+
+https://thomas-koon.github.io/CSE110LabW01/
